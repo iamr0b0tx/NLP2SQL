@@ -6,8 +6,8 @@ It has a REPL interface i.e. it is an inetractive prompt command line inetrface 
 
 ## Installation
 - Prerequisite
-    -- Python (3.x)
-    -- Sql
+    - Python (3.x)
+    - Sql
     
 Download the code as zip or just git clone it
   ```
